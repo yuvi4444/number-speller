@@ -1,3 +1,7 @@
+/* Number speller using recursive function
+- Can also use map (dictionary) or external lib to achieve this
+*/
+
 using System;
 
 class NumberSpeller
